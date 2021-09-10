@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreGPX",
+        "repositoryURL": "https://github.com/vincentneo/CoreGPX",
+        "state": {
+          "branch": null,
+          "revision": "3694305c58059896245701ab7554a6e88aaefd61",
+          "version": "0.8.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
